@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.icehouse.ndkandroid.R;
+import com.mukhlis.ndkandroid.R;
 
 public class HelloJni extends Activity {
 
