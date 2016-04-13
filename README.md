@@ -8,3 +8,6 @@ javah -classpath ../../../../build/intermediates/classes/debug:/Users/yahyamukhl
 
 ## Ndk-build
 /Users/yahyamukhlis/android-ndk-r10e/ndk-build -C /Users/yahyamukhlis/repository/NdkAndroid/app/src/main/jni
+
+## References
+http://www3.ntu.edu.sg/home/ehchua/programming/android/android_ndk.html
